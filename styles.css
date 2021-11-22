@@ -1,0 +1,13 @@
+.navbar{
+  background-color:#fff !important;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+.navbar a:hover{
+  color: blue !important;
+}
+.menu_active{
+font-weight: bold;
+border-bottom: 1px solid #565387;
+}
